@@ -1,5 +1,5 @@
 This project contains implementation of vector-quantized autoencoder with exponential-moving average for codebook update and rotation trick for vector restoration.
-![image](https://github.com/user-attachments/assets/f3dffff7-f033-4b4d-83d1-df31d9a356bb)
+![image](https://github.com/user-attachments/assets/cb07d4dc-1a73-40a0-b93e-d0a7ad3372c4)
 
 To train model see `train.ipynb` notebook. You only need to change path to images folder. In it.
 To see how to get latents/code indices see `eval.ipynb` codebook.
